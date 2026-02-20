@@ -12,5 +12,9 @@
     <array>
         <string>.claude/</string>
     </array>
+    <key>com.apple.security.temporary-exception.files.absolute-path.read-write</key>
+    <array>
+        <string>/private/tmp/claude-island.sock</string>
+    </array>
 </dict>
 </plist>
